@@ -1,0 +1,15 @@
+git config --global user.name 'username' - To set a git username
+git config --global user.email 'email' - To set a git email
+git config --global user.name  - Confirm the git username
+git --version - get the git version
+git init - create a new blank repository
+git add filename - To add files to the repository
+git add file1 file2 - To add multiple files to the respository
+git status - list all the untracked files
+git rm filename - delete the files from the repository
+git commit -m 'message' - Record the changes in the respository
+git commit --amend - replace the old commit msg
+git clone repositorylink - to clone the repository
+git remote - to communicate with outside world
+git remote -v - shows urls of remote repositories
+git fetch remoterepository - to get data from remote repository
